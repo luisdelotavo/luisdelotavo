@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Home.svg" alt="Hi, I'm Luis">
+  <img src="./display.svg" alt="Hi, I'm Luis">
 </p>
 
 
