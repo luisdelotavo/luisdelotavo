@@ -1,6 +1,8 @@
 <img src="./header.png" alt="Hi, I'm Luis">
 
-
+<h2 align="left"> Introducing, Luis Delotavo </h2>
+Welcome to my profile! Currently, I'm a student at Western University based in London, Ontario. I like to create innovative softwares and technologies with a simple, user-friendly interface. I'm also passionate about artificial intelligence and machine learning applications, exploring ways where I can integrate
+them in potential markets. Learn more about me on the bottom left of my GitHub profile where you can see my socials and personal website. Thanks for visiting!
 
 <!--
 <h1 align="left">About Me</h3>
