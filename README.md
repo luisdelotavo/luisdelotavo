@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Home.svg" alt="Hi, I'm Luis">
+</p>
+
+
 <h1 align="center">Hi, I'm Luis Delotavo</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 
