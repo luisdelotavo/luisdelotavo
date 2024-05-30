@@ -1,5 +1,5 @@
 Hi, I'm Luis!
-<img src="./header.svg" alt="Hi, I'm Luis">
+<img src="./header.png" alt="Hi, I'm Luis">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
