@@ -1,8 +1,5 @@
 Hi, I'm Luis!
-
-<p align="center">
-  <img src="./display.svg" alt="Hi, I'm Luis">
-</p>
+<img src="./display.svg" alt="Hi, I'm Luis">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
