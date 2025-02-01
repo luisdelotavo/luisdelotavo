@@ -6,7 +6,6 @@ them in potential markets. Learn more about me on the bottom left of my GitHub p
 <br><br>
 <p>
    <a href="https://luisdelotavo.com/"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white" height=25></a>
-  <a href="https://x.com/luisdelotavo11"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/luisdelotavo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/luisdelotavo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
   <a href="https://www.youtube.com/@luisdelotavo"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
