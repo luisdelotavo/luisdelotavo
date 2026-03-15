@@ -1,8 +1,5 @@
 <img src="./header.png" alt="Hi, I'm Luis">
 
-<h2 align="left"> Introducing, Luis Delotavo </h2>
-Welcome to my profile! I'm a Filipino-born Canadian and currently a student at Western University based in London, Ontario. I like to create innovative software and technologies with a simple, user-friendly interface. I'm also passionate about artificial intelligence and machine learning applications, exploring ways where I can integrate
-them in potential markets. Learn more about me on the bottom left of my GitHub profile or right under here, where you can see my socials and personal website. Thanks for visiting!
 <br><br>
 <p>
    <a href="https://luisdelotavo.com/"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white" height=25></a>
