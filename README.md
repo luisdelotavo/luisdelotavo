@@ -1,6 +1,5 @@
 <img src="./header.png" alt="Hi, I'm Luis">
 
-<br><br>
 <p>
    <a href="https://luisdelotavo.com/"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=globe&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/luisdelotavo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
